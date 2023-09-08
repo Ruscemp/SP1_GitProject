@@ -8,7 +8,9 @@ public class PlayMovement : MonoBehaviour
 
     // He he he
     private bool canDoubleJump;
-    // CALLE  // Jaanek dasd
+
+    // RADERA    // CALLE  // Jaanek dasd
+
     Rigidbody2D rd2D;
 
     private bool betterJump = false;
