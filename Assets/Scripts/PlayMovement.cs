@@ -8,7 +8,8 @@ public class PlayMovement : MonoBehaviour
 
     // He he he
     private bool canDoubleJump;
-    // Now it is my! Love
+
+    // CALLE  // Jaanek
     Rigidbody2D rd2D;
 
     private bool betterJump = false;
